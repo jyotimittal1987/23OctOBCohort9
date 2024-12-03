@@ -11,6 +11,7 @@ public class Sample {
 		int num1=10,num2=0;
 		System.out.println(num1/num2);// 10/0
 		System.out.println("In main ");
+		System.out.println("In Git");
 		
 		
 }
