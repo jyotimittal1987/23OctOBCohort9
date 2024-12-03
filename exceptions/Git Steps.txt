@@ -1,0 +1,7 @@
+1)Create a Git Repository.
+2)git clone <https..>
+3)git add .
+4)git status
+5)git commit -m "<msg>"
+6)git push / git push origin master
+7)git pull
